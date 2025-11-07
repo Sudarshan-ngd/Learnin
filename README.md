@@ -1,3 +1,3 @@
 # Learnin
-Learning git and trying to be learn stuff 
+Learning git and trying to be learn stuff. 
 Author - Sudarshan
